@@ -36,20 +36,21 @@ A JavaFX application connecting drivers and passengers across Tunisia.
 
 [View Project](https://github.com/rayensassiii/Carpooling-Tunisia)
 
-### 📦 Smart Delivery
 
-A delivery management application connecting clients and delivery drivers.
 
-**Technologies:** Java · Spring Boot · PostgreSQL · Flutter
+## 📊 GitHub Activity
 
-[View Project](https://github.com/rayensassi100-ship-it/smart-delivery)
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://github-stats-extended.vercel.app/api?username=rayensassiii&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayensassiii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayensassiii&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rayensassiii&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rayensassiii&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+
+</div>
 
 ## 📫 Connect With Me
 
