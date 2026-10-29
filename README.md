@@ -10,7 +10,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Working on **Tunisian Carpool** and **Smart Delivery**
 - 💡 Interested in software engineering, backend development, and system design
 - 📚 Improving my skills in algorithms, object-oriented programming, and databases
 - 🤝 Open to collaborating on interesting software projects
