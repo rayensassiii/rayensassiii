@@ -35,7 +35,6 @@
 
 **Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -51,27 +50,13 @@ A JavaFX desktop application designed to connect drivers and passengers across T
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayensassiii/Carpooling-Tunisia)
 
-### 📦 Smart Delivery
-A delivery management application focused on connecting clients and delivery drivers.
 
-**Planned stack:** Java · Spring Boot · PostgreSQL · Flutter
 
-[![View GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayensassi100-ship-it/smart-delivery)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayensassiii&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayensassiii&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-rayensassiii-181717?style=for-the-badge&logo=github)](https://github.com/rayensassiii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/rayen-sassi/))
 
 📫 Feel free to reach out to discuss projects, ideas, or collaboration opportunities.
 
